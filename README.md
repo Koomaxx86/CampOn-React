@@ -1,2 +1,2 @@
 # campOn-Mini-Project-
-campOn 미니프로젝트 2번째
+React를 활용한 기존 프로젝트 Update
